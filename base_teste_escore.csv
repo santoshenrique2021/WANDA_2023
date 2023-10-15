@@ -1,4 +1,4 @@
-Age;Sex;Chest_pain;Resting_blood_pressure;Serum_cholestrol;Fasting_blood_sugar;Resting_ECG;Max_heart_rate_achieved;Exercise_induced_angina;ST_depression;Peak_exercise_ST_segment;Number_of_major_vessels;Thal;ALVO;prediction_label;prediction_score
+Age;Sex;Chest_pain;Resting_blood_pressure;Serum_cholestrol;Fasting_blood_sugar;Resting_ECG;Max_heart_rate_achieved;Exercise_induced_angina;ST_depression;Peak_exercise_ST_segment;Number_of_major_vessels;Thal;ALVO;ALVO_ESTIMADO;PROBABILIDADE
 68;MALE;LEVEL_3;118;277;LOW;LEVEL_0;151;NO_PAIN;1.0;LEVEL_1;1.0;LEVEL_7;0;0;0.5689
 62;FEMALE;LEVEL_4;140;394;LOW;LEVEL_2;157;NO_PAIN;1.2;LEVEL_2;0.0;LEVEL_3;0;0;0.5149
 61;FEMALE;LEVEL_4;130;330;LOW;LEVEL_2;169;NO_PAIN;0.0;LEVEL_1;0.0;LEVEL_3;1;0;0.8331
